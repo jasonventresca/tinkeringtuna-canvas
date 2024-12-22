@@ -1,18 +1,18 @@
 export default defineAppConfig({
-  appName: 'Canvas a Nuxt portfolio template',
-  appDescription: 'Canvas is a simple but beautiful portfolio template for designers and developers built with Nuxt and Tailwind CSS. Made with ❤️ by HugoRCD',
+  appName: 'Tinkering Tuna',
+  appDescription: 'Personal website of Jason Ventresca',
   profilePicture: '/assets/desert-botanical-gardens-head-shot.webp',
-  footerName: 'HugoRCD',
-  email: 'contact@hrcd.fr',
-  twitterUsername: '@HugoRCD__',
-  phone: '(+33) 6 21 56 22 18',
-  openGraphImage: 'https://canvas.hrcd.fr/social-preview.jpg',
+  footerName: 'Jason Ventresca',
+  email: 'ionlyreadspam@gmail.com', // JV-TODO
+  twitterUsername: '@twenty4seventh',
+  phone: '', // JV-TODO
+  openGraphImage: '', // 'https://canvas.hrcd.fr/social-preview.jpg', // JV-TODO
   socials: {
-    github: 'https://github.com/HugoRCD',
-    twitter: 'https://twitter.com/HugoRCD__',
-    linkedin: 'https://www.linkedin.com/in/hugo-richard-0801',
-    instagram: 'https://www.instagram.com/hugo.rcd_',
-    spotify: 'https://open.spotify.com/user/yuvl0zpp3bpx4hne1ag7huten?si=df7ee2777c0c4fc4',
+    github: 'http://github.com/jasonventresca',
+    twitter: 'https://twitter.com/twenty4seventh',
+    linkedin: 'https://www.linkedin.com/in/jason-ventresca-94227019/',
+    instagram: 'https://www.instagram.com/fliph0riz0n/',
+    spotify: 'https://open.spotify.com/user/1291973520',
   },
   ui: {
     primary: 'emerald',
